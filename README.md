@@ -1,4 +1,4 @@
-[<img src="phpBB/styles/all/imgs/svg/phpbb_logo_large_cosmic.svg" alt="phpBB" style="max-width:40%" width="400">](https://www.phpbb.com)1
+[<img src="phpBB/styles/all/imgs/svg/phpbb_logo_large_cosmic.svg" alt="phpBB" style="max-width:40%" width="400">](https://www.phpbb.com)111
 
 phpBB is a free open-source bulletin board written in PHP.
 
